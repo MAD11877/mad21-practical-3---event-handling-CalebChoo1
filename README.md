@@ -23,7 +23,7 @@ Follow the instructions below to complete your app.
 
 5.	Upon clicking the `View` button, a random integer will be generated. The `MainActivity` (created in previous practical) will be launched, and the random integer is sent over.
 
-6.	Modify the `MainActivity` to display the random integer together with the name. 
+6.	Modify the `MainActivity` to display the random integer together with the name.
 
 ![Updated Profile page](/images/p2_final.png)
 
